@@ -1,5 +1,4 @@
-baseURL = ""
+baseURL = "https://ariciofilho.github.io/chornobyl/"
 languageCode = "en-us"
 title = "My New Hugo Site"
 theme = "tale"
-publishDir = "public"
